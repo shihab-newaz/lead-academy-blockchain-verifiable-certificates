@@ -1,17 +1,17 @@
 # Laravel Backend
-/backend/vendor
-/backend/node_modules
-/backend/public/hot
-/backend/public/storage
-/backend/storage/*.key
-/backend/storage/logs/*
-/backend/.env
-/backend/.env.backup
-/backend/.phpunit.result.cache
-/backend/Homestead.json
-/backend/Homestead.yaml
-/backend/npm-debug.log
-/backend/yarn-error.log
+/laravel-backend/vendor
+/laravel-backend/node_modules
+/laravel-backend/public/hot
+/laravel-backend/public/storage
+/laravel-backend/storage/*.key
+/laravel-backend/storage/logs/*
+/laravel-backend/.env
+/laravel-backend/.env.backup
+/laravel-backend/.phpunit.result.cache
+/laravel-backend/Homestead.json
+/laravel-backend/Homestead.yaml
+/laravel-backend/npm-debug.log
+/laravel-backend/yarn-error.log
 
 # React Frontend
 /frontend/node_modules
